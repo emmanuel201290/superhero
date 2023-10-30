@@ -1,5 +1,5 @@
 
 
 export const environments = {
-  baseUrl: 'http://localhost:3000'
+  baseUrl: 'https://server-json-production.up.railway.app'
 }
